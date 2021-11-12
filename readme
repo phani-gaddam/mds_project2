@@ -1,0 +1,13 @@
+libraries used
+ numpy
+ scikit-learn
+ pandas
+ sklearn
+ LinearSVD
+
+How to execute:
+- To execute the project, run main.py in the home folder 
+- The home folder should contain data_set.data
+- The model uses dats_set.data to train the ml model
+- We have trained the model so as to predict symboling
+
